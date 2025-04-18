@@ -7,7 +7,7 @@
 </p>
 
 
-Here is the essay-style `README.md` file for your GitHub project, professionally structured and refined for clarity, tone, and completeness:
+  
 
 ```markdown
 # Sleep Analysis Portfolio
