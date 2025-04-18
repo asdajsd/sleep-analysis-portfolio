@@ -1,6 +1,8 @@
-[![TED-Ed: How to Make Stress Your Friend](https://img.youtube.com/vi/dqONk48l5vY/0.jpg)](https://www.youtube.com/watch?v=dqONk48l5vY&ab_channel=TED-Ed)
-
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dqONk48l5vY&ab_channel=TED-Ed">
+    <img src="https://img.youtube.com/vi/dqONk48l5vY/0.jpg" alt="TED-Ed: How to Make Stress Your Friend" width="600"/>
+  </a>
+</p>
 
 
 Here is the essay-style `README.md` file for your GitHub project, professionally structured and refined for clarity, tone, and completeness:
