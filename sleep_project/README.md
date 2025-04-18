@@ -1,41 +1,22 @@
-💤 Sleep Analysis Portfolio
-📌 Project Overview
-This project explores the relationship between sleep patterns and various lifestyle factors, such as physical activity, caffeine consumption, and stress levels. By analyzing cleaned sleep data, the goal is to uncover insights that can inform healthier sleep habits and improve overall well-being.
-
-🧠 Motivation
-Understanding sleep is crucial for mental and physical health. This analysis aims to:
-
-Identify patterns in sleep duration and quality.
-
-Assess the impact of daily activities on sleep.
-
-Provide actionable insights for better sleep hygiene.
+🧠 Project Overview
+This project delves into the relationship between sleep patterns and various lifestyle factors, such as physical activity, caffeine consumption, and stress levels. By analyzing cleaned sleep data, the goal is to uncover insights that can inform healthier sleep habits and improve overall well-being.
 
 📊 Dataset
 The primary dataset, sleep_cleaned.csv, includes:
 
-Date: Date of the sleep record.
 
-Sleep Duration: Total hours of sleep.
-
-Sleep Quality: Subjective rating of sleep quality.
-
-Sleep Onset Latency: Time taken to fall asleep.
-
-Wake After Sleep Onset (WASO): Time spent awake after initially falling asleep.
-
-Sleep Efficiency: Percentage of time spent asleep while in bed.
-
-Bedtime: Time when the individual went to bed.
-
-Wake Time: Time when the individual woke up.
-
-Physical Activity: Amount of physical activity during the day.
-
-Caffeine Intake: Amount of caffeine consumed.
-
-Stress Levels: Subjective stress rating.
-
+Column Name	Description
+Date	Date of the sleep record
+Sleep Duration	Total hours of sleep
+Sleep Quality	Subjective rating of sleep quality
+Sleep Onset Latency	Time taken to fall asleep
+Wake After Sleep Onset (WASO)	Time spent awake after initially falling asleep
+Sleep Efficiency	Percentage of time spent asleep while in bed
+Bedtime	Time when the individual went to bed
+Wake Time	Time when the individual woke up
+Physical Activity	Amount of physical activity during the day
+Caffeine Intake	Amount of caffeine consumed
+Stress Levels	Subjective stress rating
 🔍 Analysis Techniques
 The analysis employs:
 
@@ -106,4 +87,3 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 📄 License
 This project is licensed under the MIT License.
-
