@@ -1,3 +1,8 @@
+![Video Title](https://img.youtube.com/vi/dqONk48l5vY/0.jpg)
+[Watch the video](https://www.youtube.com/watch?v=dqONk48l5vY&ab_channel=TED-Ed)
+
+
+
 Here is the essay-style `README.md` file for your GitHub project, professionally structured and refined for clarity, tone, and completeness:
 
 ```markdown
