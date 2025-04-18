@@ -1,8 +1,8 @@
-![Video Title](https://img.youtube.com/vi/dqONk48l5vY/0.jpg)
-[Watch the video]
+![Video Title](https://img.youtube.com/vi/dqONk48l5vY/0.jpg) 
+ 
+ (https://www.youtube.com/watch?v=dqONk48l5vY&ab_channel=TED-Ed)
 
-
-(https://www.youtube.com/watch?v=dqONk48l5vY&ab_channel=TED-Ed)
+ [Watch the video]
 
 
 
